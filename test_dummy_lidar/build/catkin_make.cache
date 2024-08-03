@@ -1,0 +1,2 @@
+lidar_publisher
+-DCATKIN_DEVEL_PREFIX=/home/olivas/test_dummy_lidar/devel -DCMAKE_INSTALL_PREFIX=/home/olivas/test_dummy_lidar/install -G Unix Makefiles

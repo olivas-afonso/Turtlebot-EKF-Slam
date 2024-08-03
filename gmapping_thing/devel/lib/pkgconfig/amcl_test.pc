@@ -1,0 +1,8 @@
+prefix=/home/olivas/gmapping_thing/devel
+
+Name: amcl_test
+Description: Description of amcl_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

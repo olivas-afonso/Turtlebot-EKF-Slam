@@ -1,0 +1,2 @@
+fake_laser_scan
+-DCATKIN_DEVEL_PREFIX=/home/olivas/test_fake_laser/devel -DCMAKE_INSTALL_PREFIX=/home/olivas/test_fake_laser/install -G Unix Makefiles

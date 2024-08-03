@@ -1,0 +1,8 @@
+prefix=/home/olivas/test_dummy_lidar/devel
+
+Name: lidar_publisher
+Description: Description of lidar_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

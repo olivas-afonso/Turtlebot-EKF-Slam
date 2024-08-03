@@ -1,0 +1,2 @@
+amcl_test
+-DCATKIN_DEVEL_PREFIX=/home/olivas/gmapping_thing/devel -DCMAKE_INSTALL_PREFIX=/home/olivas/gmapping_thing/install -G Unix Makefiles
